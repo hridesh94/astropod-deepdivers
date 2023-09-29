@@ -1,8 +1,10 @@
 {
-  "name": "astropod",
-  "description": "Astropod is a free and open-source serverless podcast template. Host your podcast for free using online third-party services.",
+  "name": "deepdiverspodcast",
+  "description": "3 Cats* musing through the space (kathmandu) and time (youth)
+ 
+  **pls don't cite**",
   "type": "module",
-  "author": "Manuel Ernesto Garcia",
+  "author": "3 Cats* Production",
   "version": "1.0.0",
   "private": true,
   "scripts": {
